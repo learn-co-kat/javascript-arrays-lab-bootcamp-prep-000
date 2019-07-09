@@ -31,4 +31,6 @@ function appendKitten(name) {
   return(kittens.concat(kitten4))
 }
 
-function 
+function prependKitten(name) {
+  
+}
