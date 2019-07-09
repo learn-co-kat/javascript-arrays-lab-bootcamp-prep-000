@@ -33,6 +33,5 @@ function appendKitten(name) {
 
 function prependKitten(name) {
   ["Arnold", ...kittens];
-  kittensTwo = ["Arnold", ...kittens];
-  return kittensTwo
+  kittens = ["Arnold", ...kittens];
 }
