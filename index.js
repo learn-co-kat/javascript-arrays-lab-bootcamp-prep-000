@@ -39,3 +39,6 @@ function prependKitten(name) {
 
 prependKitten("Arnold");
 
+function removeLastKitten() {
+  
+}
